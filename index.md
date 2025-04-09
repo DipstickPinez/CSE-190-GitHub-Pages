@@ -15,16 +15,17 @@ Code quote:
 [Jump to the bottom of the page](#end-marker)
 
 
-For a project I'm working on, check out [Krooster](krooster.com)!
+For a project I'm working on, check out [Krooster](https://www.krooster.com/)!
+
 [Click this button for a surprise!](hello.md)
 
--United States
--Canada
--Mexico
--Panama
--Haiti
--Jamaica
--Peru
+- United States
+- Canada
+- Mexico
+- Panama
+- Haiti
+- Jamaica
+- Peru
 
 My top 10 Pokemon
 1. Falinks
