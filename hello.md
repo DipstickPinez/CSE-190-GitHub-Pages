@@ -1,1 +1,1 @@
-![Hello!](https://static.wikia.nocookie.net/asdfmovie/images/2/27/Mine_Turtle.png/revision/latest?cb=20250406083100)
+![Hello!](https://static.wikia.nocookie.net/asdfmovie/images/2/27/Mine_Turtle.png/)
