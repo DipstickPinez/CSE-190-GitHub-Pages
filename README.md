@@ -1,2 +1,8 @@
 # CSE-190-GitHub-Pages
-Creating Github Page for CSE 190 Lab 1
+"DipstickPinez's User Page"
+
+My favorite language is Python
+
+https://dipstickpinez.github.io/CSE-190-GitHub-Pages/
+
+Creating Github Page for CSSE 190 Lab 1
