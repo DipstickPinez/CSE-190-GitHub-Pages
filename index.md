@@ -39,8 +39,8 @@ My top 10 Pokemon
 9. Chandelure
 10. Volcarona
 
--[x] Transferred colleges
--[x] Traveled to Japan
--[ ] Took over the world
+- [x] Transferred colleges
+- [x] Traveled to Japan
+- [ ] Took over the world
 
 ## end-marker
